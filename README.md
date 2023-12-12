@@ -1,5 +1,6 @@
 # AppMercado
  Desenvolvido com React Native, este aplicativo se integra a um backend construído em Node.js e Express, garantindo segurança com autenticação JWT (JSON Web Tokens). O aplicativo oferece uma variedade de funcionalidades, incluindo CRUD de usuários, carrinho de compras, histórico de compras, produtos favoritos, personalização de perfil de usuário, e um recurso de chat implementado com Socket.io para comunicação em tempo real dentro do aplicativo.
+---
 
 # Recursos Principais
 -Autenticação Segura: Utiliza JWT para autenticação segura, garantindo que apenas usuários autorizados acessem funcionalidades sensíveis.
@@ -17,18 +18,18 @@
 -Chat em Tempo Real: Um sistema de chat integrado utilizando Socket.io, permitindo comunicação em tempo real entre usuários do aplicativo.
 
 # Como Iniciar
-Clonar o Repositório:
+## Clonar o Repositório:
 git clone https://github.com/kamilaqz/AppMercado.git
 
-Instalar Dependências:
+## Instalar Dependências:
 npm install
 
 As dependências devem ser instaladas no frontend e backend.
 
-Configurar Variáveis de Ambiente:
+## Configurar Variáveis de Ambiente:
 Renomeie o arquivo .env.example para .env e ajuste as variáveis de ambiente conforme necessário.
 
-Iniciar o Aplicativo:
+## Iniciar o Aplicativo:
 Backend: npm start
 Frontend: npx expo start
 
