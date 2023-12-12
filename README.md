@@ -19,10 +19,10 @@
 
 # Como Iniciar
 ## Clonar o Repositório:
-git clone https://github.com/kamilaqz/AppMercado.git
+**git clone https://github.com/kamilaqz/AppMercado.git**
 
 ## Instalar Dependências:
-npm install
+**npm install**
 
 As dependências devem ser instaladas no frontend e backend.
 
@@ -30,7 +30,7 @@ As dependências devem ser instaladas no frontend e backend.
 Renomeie o arquivo .env.example para .env e ajuste as variáveis de ambiente conforme necessário.
 
 ## Iniciar o Aplicativo:
-Backend: npm start
-Frontend: npx expo start
+**Backend: npm start
+Frontend: npx expo start**
 
 O aplicativo pode ser testado usando o Expo Go.
